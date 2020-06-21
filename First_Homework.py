@@ -26,7 +26,7 @@ print(type(str))"""
 
 """HOMEWORK 4
 
-n=input("Tek basamakli bir sayi giriniz=")
+n=input("Enter a number=")
 n1=n+n
 n2=n+n+n
 n3=n+n+n+n
@@ -50,6 +50,3 @@ number=int(input("Bir sayi giriniz="))
 result=word.center(number,'x')
 print(result)"""
 ######################################
-
-
-
